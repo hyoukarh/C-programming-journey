@@ -1,0 +1,1 @@
+This folder contains weekly updates on my progress.
