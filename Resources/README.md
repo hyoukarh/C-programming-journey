@@ -1,0 +1,1 @@
+This folder contains relevant information on the books, tutorials, and websites that aided me on my journey to learn C programming.
