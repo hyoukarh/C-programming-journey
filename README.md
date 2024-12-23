@@ -1,0 +1,1 @@
+This repository has been created to documnet my journey of learning C programming, including daiy exercises, projects and resources.
