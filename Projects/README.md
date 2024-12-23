@@ -1,0 +1,1 @@
+This folder contains small to intermediate projects using knowledge I've gained from C programming.
