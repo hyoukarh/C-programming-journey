@@ -1,5 +1,5 @@
 # C Programming Journey
-This repository has been created to documnet my journey of learning C programming, including daiy exercises, projects and resources.
+Hi there, Welcome to my C programming repository! This repository documents my progress, practice exercises, projects, and resources used along the way.
 
 ## Goals
 1. Learn and understand the foundation and fundamentals of C programming.
