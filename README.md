@@ -8,4 +8,7 @@ This repository has been created to documnet my journey of learning C programmin
 4. practice problme solving and algorithms.
 
 ## Structure
-- `exercises/`:
+- `Exercises/`: Contains daily practice problems and solutions.
+- `Projects/`: Contains projects I've built to apply my knowledge.
+- `Resources/`: A curated collection of books, tutorials, and web resources.
+- `logs/`: Weekly reflection amd progress updates.
