@@ -30,3 +30,26 @@
 
 # Day Two:
 
+## Topics covered
+1. **Variables in C**
+   - Learned and understood the concept of variables as placeholders for data.
+   - Explored how to declare variables using appropriate data types (e.g., `int`, `float`, `char`).
+   - Understood how to initialize variables with values.
+   - Practiced printing the contents of variables using `printf`.
+
+2. **Key Features of Variables**
+   - Data Storage: Variables allow you to store data that can be used and modified during program execution.
+   - Data Types: Each variable has a specific data type (e.g., `int`, `float`, `char`) that determines the type of data it can hold.
+   - Declaration: Variables must be declared before use, specifying the data type and optionally assigning an initial value.
+   - Initialization: Assigning a value to a variable at the time of declaration.
+   - Memory Allocation: When declared, variables are allocated memory in the system to hold their data.
+   - Scope: Variables have a specific scope (local or global) that determines where they can be accessed in the program.
+
+
+
+## Practical Work
+   -Wrote a program declaring and intializing a variable of 'int' data type.
+   -Declared multiple variables in a single line of code.
+   -Initialized multiple variables in a single line of code.
+
+
