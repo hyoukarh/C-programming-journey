@@ -2,23 +2,23 @@
 
 ## Topics Covered
 1. **Introduction to C**
-   -Learned about the origin of the C programming language.
-   -Discussed its relevance and why it's important to learn.
-   -Explored its influence on other programming languages.
+   - Learned about the origin of the C programming language.
+   - Discussed its relevance and why it's important to learn.
+   - Explored its influence on other programming languages.
 
 2. **Key Features of C**
-   -Low-level access to memory.
-   -portability across different platforms.
-   -Rich library support and built-in functions.
-   -Simple syntax.
-   -Imperative and procedural programming.
-   -Supports structured programming concepts.
+   - Low-level access to memory.
+   - portability across different platforms.
+   - Rich library support and built-in functions.
+   - Simple syntax.
+   - Imperative and procedural programming.
+   - Supports structured programming concepts.
 
 3. **C uses and applications**
-   -System programming e.g. operating systems, drivers, etc.
-   -Game development.
-   -Embedded systems.
-   -Compiler and interpreter design.
+   - System programming e.g. operating systems, drivers, etc.
+   - Game development.
+   - Embedded systems.
+   - Compiler and interpreter design.
 
 ## Practical Work
 - **Wrote a Hello World program in C**
@@ -45,11 +45,17 @@
    - Memory Allocation: When declared, variables are allocated memory in the system to hold their data.
    - Scope: Variables have a specific scope (local or global) that determines where they can be accessed in the program.
 
-
+3. **Uses and Applications of Variables**
+   - Storing Data: Variables are used to store user inputs, intermediate computations, and final results.
+   - Dynamic Changes: Enable programs to adapt dynamically by allowing values to change during execution.
+   - Control Logic: Variables are often involved in loops, conditional statements, and logic controls.
+   - Mathematical Operations: Perform arithmetic and logical operations using variables as operands.
+   - Data Sharing: Facilitate data transfer between different parts of a program.
+   - Interactive Programs: Handle user inputs and display outputs effectively.
 
 ## Practical Work
-   -Wrote a program declaring and intializing a variable of 'int' data type.
-   -Declared multiple variables in a single line of code.
-   -Initialized multiple variables in a single line of code.
+   - Wrote a program declaring and intializing a variable of 'int' data type.
+   - Declared multiple variables in a single line of code.
+   - Initialized multiple variables in a single line of code.
 
 
