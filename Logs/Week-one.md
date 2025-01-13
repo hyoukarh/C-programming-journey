@@ -59,3 +59,24 @@
    - Initialized multiple variables in a single line of code.
 
 
+# Day Three:
+
+## Topics covered:
+1. **Variable naming conventions**
+   - Learnt about the guidelines for variable naming.
+   - Understood why variables should be named properly.
+   - Learnt specific conventions for variable names.
+  
+2. **Basic output function - printf**
+   - Learnt and understood the purpose of the `printf` function.
+   - grasped its basic syntax.
+   - Learnt about the different format specifiers.
+   - learnt about escape sequences. 
+  
+## Practical Work:
+   - Wrote and executed a program utilizing what I've learned about the `printf` function.
+   - Incorporated a basic math equation in C into my function.
+   - Made use of a format specifier.
+   - made use of strings to print a string constant.
+  
+# Day Four: 
