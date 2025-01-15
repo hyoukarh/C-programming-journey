@@ -81,3 +81,35 @@
   
 # Day Four: 
 
+## Topics covered
+1. **Data type: Size of an integer**
+   - Learnt about the size of an integer in various system architectures and compiler.
+   - How to check the size of an integer on a system architecture.
+   - Implications of the size of an integer.
+
+2. **Binary number system**
+   - Learnt and understood the uses of the binary number system.
+   - How the binary number system works.
+   - Range and place values of binary number system.
+  
+3. **Calculating the range of an integer**
+   - Learnt about signed and unsigned integers.
+   - How to calculate signed and unsigned integers.
+
+4. **Data types: Modifiers**
+   - Learnt about the long and short modifier.
+   - The range of the short and long modifier.
+   - The usage of the long and short modifier.
+   - Learnt about the long long modifier and its usage.
+   - Format specifiers to print out modifier values.
+
+5. **`#Include <limit.h>`**
+   - Learnt about its uses and function.
+
+## Practical Work:
+   - Wrote a program To check the size of a data type.
+   - wrote a program to check the various ranges of an integer.
+
+# Day Five:
+
+
