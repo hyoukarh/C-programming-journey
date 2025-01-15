@@ -83,28 +83,37 @@
 
 ## Topics covered
 1. **Data type: Size of an integer**
-   - Learnt about the size of an integer in various system architectures and compiler.
-   - How to check the size of an integer on a system architecture.
-   - Implications of the size of an integer.
+- Learned about the size of an integer across various system architectures and compilers.
+- Explored how to check the size of an integer using the `sizeof` operator.
+- Understood the implications of integer size on memory usage and program portability.
 
 2. **Binary number system**
-   - Learnt and understood the uses of the binary number system.
-   - How the binary number system works.
-   - Range and place values of binary number system.
+- Studied the binary number system, its importance, and its role in computing.
+- Understood how binary numbers are represented and their place values.
+- Explored the range of values that can be represented in the binary system.
+
   
 3. **Calculating the range of an integer**
-   - Learnt about signed and unsigned integers.
-   - How to calculate signed and unsigned integers.
+- Differentiated between **signed** and **unsigned** integers.
+- Learned how to calculate:
+- The range of signed integers: `-2^(n-1)` to `2^(n-1) - 1`
+- The range of unsigned integers: `0` to `2^n - 1`
+- Where `n` is the number of bits used.
+
 
 4. **Data types: Modifiers**
-   - Learnt about the long and short modifier.
-   - The range of the short and long modifier.
-   - The usage of the long and short modifier.
-   - Learnt about the long long modifier and its usage.
-   - Format specifiers to print out modifier values.
+- Learned about modifiers such as `short`, `long`, and `long long`.
+- Studied their respective ranges and how they affect the size of variables.
+- Learned to use **format specifiers** to print values:
+- `%ld` for `long`
+- `%lld` for `long long`
+- `%hd` for `short`
 
 5. **`#Include <limit.h>`**
-   - Learnt about its uses and function.
+- Discovered how to use `<limits.h>` to access predefined macros for data type ranges.
+- Examples include:
+- `INT_MAX` and `INT_MIN` for the range of `int`.
+- `LONG_MAX`, `LONG_MIN`, `SHRT_MAX`, etc., for other types.
 
 ## Practical Work:
    - Wrote a program To check the size of a data type.
