@@ -121,4 +121,47 @@
 
 # Day Five:
 
+## Topics Covered:
+### 1. **Exceeding the Range of an Integer**
+- **Implications of Exceeding Integer Ranges**:
+  - **Data Loss**: Unexpected truncation of values.
+  - **Integer Overflow**: When a value exceeds the maximum range, it wraps around to the minimum range.
+  - **Integer Underflow**: When a value goes below the minimum range, it wraps around to the maximum range.
+  - **Undefined Behavior**: Unpredictable results depending on the compiler or platform.
+
+- **How to Avoid Exceeding Integer Ranges**:
+  1. **Choose the Right Data Type**:
+     - Use `long` or `long long` for larger values.
+     - Opt for unsigned types when only positive values are needed.
+  2. **Check for Overflow**:
+     - Use conditional checks before performing operations that might exceed the range.
+  3. **Use Overflow Detection Functions**:
+     - Leverage functions like `__builtin_add_overflow` (specific to GCC/Clang) to detect overflow.
+  4. **Use Arbitrary-Precision Arithmetic**:
+     - Libraries like GMP (GNU Multiple Precision Arithmetic Library) provide support for handling large numbers.
+
+---
+
+### 2. **Data Type: Char**
+- **Overview**:
+  - The `char` data type is used to store single characters.
+  - It can also store small integer values since it occupies 1 byte (8 bits).
+
+- **Size and Range**:
+  - **Signed `char`**: Range of `-128 to 127`.
+  - **Unsigned `char`**: Range of `0 to 255`.
+
+- **Printable Characters**:
+  - Includes standard characters like `A-Z`, `a-z`, `0-9`, and symbols (`@, $, %, etc.`).
+  - Defined in the ASCII table, starting from decimal value 32 (`' '`) to 126 (`'~'`).
+
+- **Non-Printable Characters**:
+  - Control characters like `\n` (newline), `\t` (tab), `\b` (backspace), etc.
+  - ASCII values range from 0 to 31 and 127.
+
+## Practical Work:
+   - Wrote a program to check the what happens when the range is exceeded.
+   - Wrote a simple program to print a character on the console.
+  
+# Day Six:
 
