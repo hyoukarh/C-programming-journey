@@ -10,8 +10,8 @@ int main() {
     signed int shrtmax = SHRT_MAX;
     unsigned int ushrtmin = 0;
     unsigned int ushrtmax = USHRT_MAX;
-    long int lngmin = LONG_MAX;
-    long int lngmax = LONG_MIN;
+    long int lngmin = LONG_MIN;
+    long int lngmax = LONG_MAX;
     unsigned long int ulngmin = 0;
     unsigned long int ulngmax = ULONG_MAX;
     printf("The range of a signed integer is from %d to %d\n", min, max); // prints the range of a signed integer using the limits.h header file.
@@ -20,4 +20,5 @@ int main() {
     printf("The range of an unsigned short integer is from %u to %u\n", ushrtmin, ushrtmax); // prints the range of an unsigned short integer using the limits.h header file.
     printf("The range of a signed long integer is from %ld to %ld\n", lngmin, lngmax); // prints the range of a signed long integer using the limits.h header file.
     printf("The range of an unsigned long integer is from %lu to %lu\n", ulngmin, ulngmax); // prints the range of an unsigned long integer using the limits.h header file.
+    return 0;
 }
