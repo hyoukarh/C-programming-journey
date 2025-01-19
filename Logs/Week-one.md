@@ -165,3 +165,31 @@
   
 # Day Six:
 
+## Topics Covered:
+1. **Floating point types**:
+   - Learned about floating-point types in C: float, double, and long double.
+   - Understood their:
+      - Size: How much memory they occupy.
+      - Range: The minimum and maximum values they can represent.
+      - Precision: The number of significant digits they can reliably store.
+      - Explored their limitations (e.g., rounding errors, precision issues) and uses (e.g., scientific calculations, graphics programming).
+
+2. **Fixed and Floating point**
+   - Learned about fixed-point representation:
+      - Suitable for systems without floating-point hardware or where precision is predictable.
+   - Learned about floating-point representation:
+      - Used for a wide range of values and high precision.
+   - Understood the differences:
+      - Fixed-Point: Consistent precision, limited range.
+      - Floating-Point: Variable precision, wide range.
+   - Discussed the limitations and applications of both:
+      - Fixed-point: Embedded systems, DSPs (Digital Signal Processing).
+      - Floating-point: Scientific computing, games, simulations.
+
+## Practical work:
+   - Wrote a program to:
+      - Check the size, range, and precision of floating-point types (float, double, long double) using sizeof() and limits.h.
+      - Observed how values are stored and the effects of exceeding precision limits.
+  
+# Day Seven
+ - Revised topic covered throughout the week.
