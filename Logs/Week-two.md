@@ -19,3 +19,24 @@
 - Wrote a program to observe how auto and extern modifiers work.
 
 # Day Two
+
+## Topics Covered
+1. **Register Modifier**
+- Definition of register modifiers.
+- Definition of regsiter memory.
+- Purpose of register modifiers.
+- Use of register modifiers.
+- Benefits and best practices.
+
+2. **Static Modifier**
+- Definition of static modifiers.
+- Static modifier storage duration and linkage.
+- How static modifiers affect variables and functions.
+- Static and external variables.
+- Best practices and usage.
+
+## Practical Work
+- Wrote a program to observe how register modifiers work.
+- Wrote a program to observe how Static modifiers work
+
+# Day Three
