@@ -1,0 +1,23 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build C23",
+            "type": "shell",
+            "command": "gcc",
+            "args": [
+                "-std=c23", 
+                "-Wall", 
+                "-o", 
+                "main", 
+                "${file}"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"],
+            "detail": "Compile with C23 standard"
+        }
+    ]
+}
