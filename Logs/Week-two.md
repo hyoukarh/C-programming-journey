@@ -40,3 +40,18 @@
 - Wrote a program to observe how Static modifiers work
 
 # Day Three
+
+## Topics Covered:
+1. **Predefined Macros**
+- Definition of predefined macros.
+- Types of predefined macros.
+- Example use cases.
+
+2. **Constants in C**
+- Definition of Constants.
+- Types of constants.
+- Benefits and best practices of using constants.
+- Definition, benefits, and uses of the `#define` and `const` keywords.
+
+## Daily practice:
+- Wrote a code to observe how constants work.
