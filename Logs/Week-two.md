@@ -55,3 +55,26 @@
 
 ## Daily practice:
 - Wrote a code to observe how constants work.
+
+# Day Four
+
+## Topics Covered
+1. **Scanf**
+- Definition of scanf.
+- How scanf works.
+- Common mistakes when using scanf.
+- Important points to remember when using scanf.
+
+2. **C memory segment**
+- Learnt about the text segment.
+- Learnt about the data segment.
+- How the intialized and uninitialized data segments work.
+
+## Daily Practice:
+- Wrote code to observe how scanf is used.
+- used commnad prompt to check where and how initialized and uninitialized variables are stored.
+
+# Day Five
+
+## Topics Covered
+1. 
