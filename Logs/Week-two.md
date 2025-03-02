@@ -77,4 +77,21 @@
 # Day Five
 
 ## Topics Covered
-1. 
+1. **Operators in C**
+- What are Operators in C.
+- Types of operators in C.
+
+2. **Arithmetic Operators**
+- Definition and uses of arithmetic operators.
+- Precedence of arithmetic operators.
+- Associavity of arithmetic operators.
+
+## Practical Work:
+- Wrote code to observe how arithmetic operators work.
+- Code to observe how precedence of arithmetic operators work.
+- Observed the associavity of arithmetic operators.
+
+# Day Six
+
+## Topics Covered:
+1. **
