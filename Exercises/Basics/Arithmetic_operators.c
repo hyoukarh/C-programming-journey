@@ -12,6 +12,9 @@ int main() {
     printf("%d * %d is equal to: %d\n", divide, add, mul);
 
     int mod = mul % c;
-    printf("%d modulo %d is: %d", mul, c, mod);
+    printf("%d modulo %d is: %d\n", mul, c, mod);
+
+    int associavity = a * b + a / b - c;
+    printf("%d * %d + %d / %d - %d is equal to: %d\n", a, b, a, b, c); // Shows how associavity works.
     return 0;
 }
