@@ -94,4 +94,16 @@
 # Day Six
 
 ## Topics Covered:
-1. **
+1. **Increment and decrement operators.
+- Definiton and uses.
+- prefix and postfix operators.
+
+2. **Lexical analyzer**
+- Definition and uses.
+- How it works.
+
+## Daily practice: 
+- wrote code to observe how increment and decrement operators work.
+- How lexical analyzer reads source code to find a logical sequence.
+
+# Day Seven
