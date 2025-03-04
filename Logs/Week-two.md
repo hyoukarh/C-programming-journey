@@ -107,3 +107,4 @@
 - How lexical analyzer reads source code to find a logical sequence.
 
 # Day Seven
+- Revision.
