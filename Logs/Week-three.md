@@ -13,3 +13,15 @@
 
 ## Daily Practice:
 - Wrote code to observe how relational and logical operators work.
+
+# Day Two
+
+## Topics Covered:
+1. **Bitwise Operators**
+- Definition of bitwise operators.
+- How bitwise operators work.
+- Use cases and key points to remember.
+
+## Daily practice:
+- Wrote code to observe how bitwise operators work.
+
