@@ -25,3 +25,14 @@
 ## Daily practice:
 - Wrote code to observe how bitwise operators work.
 
+# Day Three
+
+## Topics Covered:
+1. **Assignment Operators**
+- Defintion of assignment operators.
+- List and uses.
+- How assignment operators work.
+
+## Daily Practice: 
+- Wrote code to observe how assignment operators work.
+
