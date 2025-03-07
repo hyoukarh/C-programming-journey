@@ -36,3 +36,16 @@
 ## Daily Practice: 
 - Wrote code to observe how assignment operators work.
 
+# Day Four
+
+## Topics Covered:
+1.**Conditional Operators**
+- Definition and uses.
+- Syntax breakdown.
+
+2. **Comma Operator**
+- Definition and uses.
+- Syntax and characteristics.
+
+## Daily Practice:
+- Wrote code to observe how both conditional and comma operators work.
