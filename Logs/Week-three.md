@@ -49,3 +49,20 @@
 
 ## Daily Practice:
 - Wrote code to observe how both conditional and comma operators work.
+
+# Day Five
+
+## Topics Covered:
+1. **Precedence of Operators**
+- Definition.
+- How it works.
+- Precedence level of operators.
+
+2. **Associativity of Operators**
+- Definition.
+- How it works.
+- Associativity of operators.
+
+## Daily Practice:
+- Wrote code to observe how associativity and precedence of operators work.
+- 
