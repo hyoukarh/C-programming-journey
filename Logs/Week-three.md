@@ -65,4 +65,18 @@
 
 ## Daily Practice:
 - Wrote code to observe how associativity and precedence of operators work.
-- 
+
+# Day Six
+
+## Topics Covered:
+1. **Conditional Statements**
+- Definition and uses.
+- syntax.
+- Key points and pitfalls.
+
+## Practical Work:
+- Wrote code to observe how if, else if, if else, and nested if statements work.
+- Wrote code to observe how switch statements work.
+
+# Day Seven
+- Revision.
