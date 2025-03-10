@@ -12,5 +12,14 @@ int main() {
             printf("%d %d\n", b, c);
         }
     }
+
+    int d;
+    do {
+        printf("Enter an integer:\n");
+        scanf("%d", &d);
+    } while (d != 0);
+
+    printf("You've escaped the loop\n");
+    
     return 0;
 }
